@@ -139,6 +139,8 @@ __How to use with Multi-Search?__
  - You see only the V1 Cards, but you can press "Open all reprints" to check another Versions too
 
 Video:
+<video src="https://github.com/Hylianer95/CardPrices/blob/main/CardPrices.mp4" controls width="600"></video>
+
 
 
 Tips:
