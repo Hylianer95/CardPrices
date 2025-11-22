@@ -1,5 +1,5 @@
 
-# OnePiece Card Prices – User Guide
+#Card Prices – User Guide
 
 This app helps you quickly check prices for trading cards on Cardmarket.  
 Currently supported:
